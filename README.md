@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on GitHub 
 - 🤤 I like Github, Reddit, X and Threads 
+- 😈 Maybe..... hackforums.net
