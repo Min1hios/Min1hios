@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @Min1hios
 - 👀 I’m interested in tweaks for iOS 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Min1hios/Min1hios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on GitHub 
+- 🤤 I like Github, Reddit, X and Threads 
